@@ -8,7 +8,7 @@
 * [Setup](#setup)
 
 ## General Info
-Simple desktop application for people with inflammatory bowel disease to track thier IBD symptoms, weight, food history, medication, and bowel movements.
+Simple desktop application for people with inflammatory bowel disease to track thier symptoms, weight, food history, medication, and bowel movements.
 
 ## Technologies
 This project is created with:
