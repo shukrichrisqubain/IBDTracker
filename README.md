@@ -10,7 +10,7 @@
 * [Usage](#usage)
 
 ## General Info
-Simple desktop application for people with inflammatory bowel disease to track thier symptoms, weight, food history, medication, and bowel movements.
+IBDTracker is a simple desktop application for people with inflammatory bowel disease to track thier symptoms, weight, food history, medication, and bowel movements.
 
 ## Technologies
 Project is created with:
@@ -26,16 +26,19 @@ Project is created with:
 * track medicine.
 
 ## Setup
-Before installing this project, make sure you have a version of java 1.8 installed.
-To install it locally by cloning this repository:
+Before installing this project, make sure you have a version of Java 1.8 installed.
 
-### Clone the repository
-$ git clone https://github.com/shukrichrisqubain/IBDTracker.git
+### Download the project as a zip file
+* First, navigate to the account branch, 
+as this is the only branch with a runnable file at the moment.
+<img width="224" alt="branch" src="https://user-images.githubusercontent.com/65924683/83339634-e7c16d80-a29d-11ea-8d88-ed2b42483614.PNG">
 
-### Go into the repository
-$ cd IBDTracker
-
-
+* Second, click the green "clone or download" button, and select to download the project as a zip file.
+![Screenshot (466)](https://user-images.githubusercontent.com/65924683/83339660-26efbe80-a29e-11ea-98a4-b895be377b40.png)
 
 ## Usage
-Run this project by:
+To run this project: 
+* Find the zip file you downloaded earlier and change into that directory.
+* Execute the followwing command : java -jar IBDTracker.jar
+
+
