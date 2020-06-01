@@ -17,10 +17,13 @@ Project is created with:
 * Java version: 1.8
 
 ## Features
+### Finished:
 
-### To Do:
+### In-Progress:
 * create, load, and view an IBDTracker account.
 * track bowel movements.
+
+### Not Started:
 * track food and drinks consumed.
 * track weight.
 * track medicine.
@@ -29,11 +32,11 @@ Project is created with:
 Before installing this project, make sure you have a version of Java 1.8 installed.
 
 ### Download the project as a zip file
-* First, navigate to the account branch, 
+* <Strong>First</Strong>, navigate to the account branch, 
 as this is the only branch with a runnable file at the moment.
 <img width="224" alt="branch" src="https://user-images.githubusercontent.com/65924683/83339634-e7c16d80-a29d-11ea-8d88-ed2b42483614.PNG">
 
-* Second, click the green "clone or download" button, and select to download the project as a zip file.
+* <Strong>Second</Strong>, click the green "clone or download" button, and select to download the project as a zip file.
 ![Screenshot (466)](https://user-images.githubusercontent.com/65924683/83339660-26efbe80-a29e-11ea-98a4-b895be377b40.png)
 
 ## Usage
