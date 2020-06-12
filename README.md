@@ -22,11 +22,12 @@ Project is created with:
 ### In-Progress:
 * create, load, and view an IBDTracker account.
 * track bowel movements.
-
-### Not Started:
 * track food and drinks consumed.
 * track weight.
 * track medicine.
+
+### Not Started:
+
 
 ## Setup
 Before installing this project, make sure you have a version of Java 1.8 installed.
